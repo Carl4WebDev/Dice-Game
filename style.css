@@ -6,8 +6,8 @@
   
   .dice {
     text-align: center;
-    display: inline-block;
-  
+    display: inline-block
+    
   }
   
   body {
@@ -38,5 +38,12 @@
     text-align: center;
     font-family: 'Indie Flower', cursive;
   
+  }
+
+  .zero {
+    width: 205px;
+    height: 205px;
+    background: url('images/dice0.png');
+    border-radius: 25px;
   }
   
